@@ -9,4 +9,4 @@
 <ul>
   <li>Кнопка "Поиск гостиницы в Седоне" - модальное окно</li>
 </ul>
-<p>Ссылка - <a href="https://lit-al.github.io/Sedona/">https://lit-al.github.io/Sedona/</a></p>
+<p>Ссылка - <a href="https://lit-al.github.io/Sedona/" target="_blank>https://lit-al.github.io/Sedona/</a></p>
